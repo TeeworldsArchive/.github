@@ -1,9 +1,9 @@
 TeeworldsArchive
 ================
 English:
-The forked Teeworlds repository uses English for communication.
-In the dedicated TeeworldsArchive repository, you may use Chinese.
+The teeworlds/teeworlds-maps repository uses English for communication.
+In the teeworlds-translations/.github/website repository, you may use Chinese.
 
 中:
-本项目fork的teeworlds的仓库中使用英文交流。
-单独的TeeworldsArchive仓库中你可以使用中文交流。
+teeworlds/teeworlds-maps仓库仅使用英语进行交流。
+teeworlds-translations/.github/website仓库下，你也可以使用中文。
